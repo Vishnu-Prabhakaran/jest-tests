@@ -1,0 +1,23 @@
+{
+  "name": "jest-tests",
+  "version": "1.0.0",
+  "description": "Basic tests with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishnu-Prabhakaran/jest-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishnu-Prabhakaran/jest-tests/issues"
+  },
+  "homepage": "https://github.com/Vishnu-Prabhakaran/jest-tests#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
