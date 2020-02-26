@@ -19,7 +19,6 @@ const getPeoplePromise = fetch => {
 };
 
 // Async await version
-
 const getPeople = async fetch => {
   const getRequest = await fetch('https://swapi.co/api/people');
   const data = await getRequest.json();
